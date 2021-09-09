@@ -12,7 +12,7 @@ locale - set the language in the card (e.g. cn, de, es, etc.)
 border_radius - Corner rounding on the card_
 -->
 
-#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mani-Amjadi&show_icons=true&theme=onedark)
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-Amjadi&theme=onedark)
 ## ```💻 Social Media```
 
