@@ -1,4 +1,4 @@
-## 💩 Git Hub Stats
+## ```💩 Git Hub Stats```
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- title_color - Card's title color (hex color)
 text_color - Body text color (hex color)
@@ -12,13 +12,13 @@ locale - set the language in the card (e.g. cn, de, es, etc.)
 border_radius - Corner rounding on the card_
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-Amjadi&theme=onedark)
-## 💻 Social Media
+#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-Amjadi&theme=onedark)
+## ```💻 Social Media```
 
-`my instagram` : [instagram](https://www.instagram.com/mani_amjadi)
+### `my instagram` : [instagram](https://www.instagram.com/mani_amjadi)
 
-`discord channel` : [discord](https://discord.com)
+### `discord channel` : [discord](https://discord.com)
 
 
 
